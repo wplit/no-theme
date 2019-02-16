@@ -10,8 +10,10 @@ Oxygen completely disables the WordPress theme system, so it really doesn't matt
 
 However, theme update notifications will come through for themes that are installed. It can be annoying to you and confusing for clients.
 
-1. Act as blank placeholder theme that will receive no update notices.
-2. Gives Oxygen user opportunity to include contact details incase a new developer takes on the project and has no information on who built the site.
+This 'No Theme' solves two problems..
+
+1. No more theme update notifications (assuming this is the only theme installed)
+2. Gives Oxygen user the opportunity to leave contact details for the next developer that may take on the project.
 
 ## Installation ##
 
