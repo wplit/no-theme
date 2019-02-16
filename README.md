@@ -20,4 +20,4 @@ This 'No Theme' solves two problems..
 1. [Download the theme here.](https://github.com/wplit/no-theme/archive/master.zip)
 2. Go to Themes > Add New in your WordPress admin. Click on `Upload Theme` and browse for the zip file.
 3. Activate the Theme.
-4. Change style.css file to include your contact details.
+4. Replace stylesheet header found in theme to include your own contact details.
