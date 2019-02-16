@@ -8,7 +8,7 @@ This theme only serves as a placeholder for sites built with [Oxygen](http://oxy
 
 Oxygen completely disables the WordPress theme system, so it really doesn't matter which theme you have installed.
 
-However, theme update notifications will come through for themes that are installed. It can be annoying to you and confusing for clients.
+However, theme update notifications will still come through for any themes that are installed while using Oxygen. It can be annoying (and confusing for clients).
 
 This 'No Theme' solves two problems..
 
